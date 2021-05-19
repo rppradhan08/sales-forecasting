@@ -7,8 +7,11 @@ The following project contains a detailed walkthrough involved in building and d
 **Directory Structure**
 
 - `Model_Selection_process.ipynb` : Contains detailed walkthrough of model selection process
+- `Model_Selection_process.pdf` : PDF version of Model_Selection_process.ipynb
 - `sales_forecasting_script.py` : Python script for sales forecasting
 - `QA_template.xlsx` : For application testing
+- `requirement.txt` : Dependencies
+- `dataset.csv` : Dataset for model building 
 
 
 ## Prerequisites
